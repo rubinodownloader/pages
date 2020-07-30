@@ -10,13 +10,11 @@
     "link": "rubinodownloader_app",
     "tick": "yes",
     "image": "http://uupload.ir/files/dvj_20200729_154522.png",
-    "custom": [
-      {
-        "text": "متن",
-        "button": "ثبت پیج",
-        "image": "http://uupload.ir/files/dvj_20200729_154522.png",
-        "title": "افزودن پیج"
-      }
-    ]
+    "custom": {
+      "title": "اضافه کردن پیج شما",
+      "text": "توضیحات",
+      "button": "ثبت",
+      "image": "http://uupload.ir/files/dvj_20200729_154522.png"
+    }
   }
 ]
